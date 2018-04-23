@@ -1,0 +1,25 @@
+{
+  "name": "util.types",
+  "version": "0.0.1",
+  "description": "Polyfill for util.types",
+  "main": "index.js",
+  "dependencies": {
+    "define-properties": "^1.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiroppy/util.types.git"
+  },
+  "author": "abouthiroppy <git@about-hiroppy.com> (http://about-hiroppy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hiroppy/util.types/issues"
+  },
+  "homepage": "https://github.com/hiroppy/util.types#readme"
+}
