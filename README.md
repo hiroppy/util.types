@@ -8,6 +8,10 @@ Polyfill of `util.types`.
 
 ## Usage
 
+```js
+const types = require('util.types');
+```
+
 ### Shim
 
 ```js
